@@ -1,0 +1,68 @@
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-size: 16px; /*1 rem = 10px*/
+    background-image: linear-gradient(
+      to bottom,
+      var(--gris_claro) 0%,
+      var(--blanco) 100%
+    ); /*Degradados*/
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+  
+  ::-webkit-scrollbar {
+    display: none;
+  }
+
+#Caja{
+  height: 80rem;
+}
+  
+
+.Tamaño{
+  height: 3rem;
+  width: 50rem;
+}
+
+.Mostrar-Img{
+  height: 40rem;
+  width: 53rem;
+  
+  border-style: groove;
+  border-color: black;
+  border-radius: 1rem;
+
+  display: grid;
+  grid-row: 1fr 8fr;
+}
+
+
+.Elegir{
+  grid-area: 1/1/1/1;
+  height: 4rem;
+}
+
+.Elegir2{
+  grid-area: 1/2/1/2;
+  height: 4rem;
+}
+
+.Imagen-Mos{
+  grid-area: 2/1/2/3;
+  padding-left: 0rem;
+  margin-left: 0rem;
+
+  width: fit-content;
+  max-width: 52rem;
+  height: fit-content;
+  max-height: 35rem;
+  object-fit: cover;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

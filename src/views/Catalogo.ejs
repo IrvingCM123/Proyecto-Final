@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include("partials/header.ejs")%>
+    <%- include("partials/estilos.ejs")%>
+    <title>Catalogo</title>
+</head>
+
+<body>
+    <div class="imagen">
+    </div>
+
+
+    <div class="container-cursos">
+
+        <input type="radio" id="TODOS" name="categories" value="TODOS" checked>
+        <input type="radio" id="WEB" name="categories" value="WEB">
+        <input type="radio" id="PROGRAMACION" name="categories" value="PROGRAMACION">
+        <input type="radio" id="MEDICINA" name="categories" value="MEDICINA">
+        <input type="radio" id="MATEMATICAS" name="categories" value="MATEMATICAS">
+        <input type="radio" id="REDES" name="categories" value="REDES">
+
+        <div class="container-category">
+            <label for="TODOS">TODOS</label>
+            <label for="WEB">WEB</label>
+            <label for="PROGRAMACION">PROGRAMACION</label>
+            <label for="MEDICINA">MEDICINA</label>
+            <label for="MATEMATICAS">MATEMATICAS</label>
+            <label for="REDES">REDES</label>
+        </div>
+
+        <div class="cursos">
+
+            <div class="curso" data-category="WEB">
+                <div class="curso-img">
+                    <img src="\img\Header\Curso 1.jpg" alt="">
+                </div>
+                <h2>Crea tu primera pagina web</h2>
+                <ul class="curso-inf">
+                    <li>CSS</li>
+                    <li>HTML</li>
+                </ul>
+                <div class="Boton-curso">
+                    <a href="#">
+                        <button>Empezar curso</button>
+                    </a>
+                </div>
+            </div>
+
+            <div class="curso" data-category="WEB">
+                <div class="curso-img">
+                    <img src="\img\Header\CSS-Logo.jpg" alt="">
+                </div>
+                <h2>¡Personaliza tu página con css!</h2>
+                <ul class="curso-inf">
+                    <li>CSS</li>
+                </ul>
+                <div class="Boton-curso">
+                    <a href="#">
+                        <button>Empezar curso</button>
+                    </a>
+                </div>
+            </div>
+
+            <div class="curso" data-category="MEDICINA">
+                <div class="curso-img">
+                    <img src="\img\Header\Medicina.jpg" alt="">
+                </div>
+                <h2>Diccionario Médico</h2>
+                <ul class="curso-inf">
+                    <li>Imagenes</li>
+                    <li>Significados</li>
+                </ul>
+                <div class="Boton-curso">
+                    <a href="/Catalogo/Glosario">
+                        <button>Empezar curso</button>
+                    </a>
+                </div>
+            </div>
+
+            <div class="curso" data-category="PROGRAMACION">
+                <div class="curso-img">
+                    <img src="\img\Header\Java.jpg" alt="">
+                </div>
+                <h2>Aprende Java desde 0</h2>
+                <ul class="curso-inf">
+                    <li>Java</li>
+                </ul>
+                <div class="Boton-curso">
+                    <a href="/src/Programacion/Pestaña_Programacion.html">
+                        <button>Empezar curso</button>
+                    </a>
+                </div>
+            </div>
+
+            <div class="curso" data-category="MATEMATICAS">
+                <div class="curso-img">
+                    <img src="\img\Header\Matematicas.jpg" alt="">
+                </div>
+                <h2>Fundamentos de matemáticas</h2>
+                <ul class="curso-inf">
+                    <li>Matematicas</li>
+                </ul>
+                <div class="Boton-curso">
+                    <a href="#">
+                        <button>Empezar curso</button>
+                    </a>
+                </div>
+            </div>
+
+            <div class="curso" data-category="REDES">
+                <div class="curso-img">
+                    <img src="\img\Header\Cisco.jpg" alt="">
+                </div>
+                <h2>Introduccion a las redes</h2>
+                <ul class="curso-inf">
+                    <li>Redes</li>
+                </ul>
+                <div class="Boton-curso">
+                    <a href="#">
+                        <button>Empezar curso</button>
+                    </a>
+                </div>
+            </div>
+
+
+
+        </div>
+
+    </div>
+
+    <div class="loader"></div>
+</body>
+<script src="/src/js/Buscador.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript">
+    $(window).load(function () {
+        $(".loader").fadeOut("slow");
+    });
+</script>
+
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Programacion</title>
+    <%- include("partials/header.ejs")%>
+    <%- include("partials/estilos.ejs")%>
+</head>
+
+<body>
+
+    <div id="Mostrar-Busqueda">
+        <input type="text" id="BuscarPalabra" placeholder="¿Qué deseas buscar?">
+    </div>
+
+    <ul id="Sugerencias">
+        <li><a href="articulo.html"><i class="fas fa-search"></i>HTML</a></li>
+        <li><a href="articulo.html"><i class="fas fa-search"></i>CSS</a></li>
+        <li><a href="articulo.html"><i class="fas fa-search"></i>Programacion</a></li>
+        <li><a href="articulo.html"><i class="fas fa-search"></i>Medicina</a></li>
+        <li><a href="articulo.html"><i class="fas fa-search"></i>¿Qué son las redes?</a></li>
+        <li><a href="articulo.html"><i class="fas fa-search"></i>Fundamentos de Matematicas </a></li>
+        <li><a href="/Programacion/Pestaña_Programacion.html"><i class="fas fa-search"></i>Java</a></li>
+        <li><a href="articulo.html"><i class="fas fa-search"></i>Cisco</a></li>
+    </ul>
+
+    <div id="Funcion-Buscador"></div>
+
+    <div class="container-all" id="move-content">
+
+        </div>
+
+        <div class="Temas">
+            <a class="Temas-Mostrar" href=""> Inicio </a>
+            <a class="Temas-Mostrar" href=""> Tema 1 </a>
+            <a class="Temas-Mostrar" href=""> Tema 2 </a>
+            <a class="Temas-Mostrar" href=""> Tema 3 </a>
+            <a class="Temas-Mostrar" href=""> Tema 4 </a>
+            <a class="Temas-Mostrar" href=""> Tema 5 </a>
+        </div>
+
+        <div class="Contenido Fondo">
+            <div class="Saludo">
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi, ipsa reiciendis mollitia quos eaque
+                aperiam sunt hic repudiandae cum fuga, nam dolorum modi distinctio eveniet reprehenderit accusamus adipisci velit ullam!
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi, ipsa reiciendis mollitia quos eaque
+                aperiam sunt hic repudiandae cum fuga, nam dolorum modi distinctio eveniet reprehenderit accusamus adipisci velit ullam!
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi, ipsa reiciendis mollitia quos eaque
+                aperiam sunt hic repudiandae cum fuga, nam dolorum modi distinctio eveniet reprehenderit accusamus adipisci velit ullam!
+                <br> <br> <br>
+                ¡Contactanos! <br>
+                Número de telefono: 111111111 <br>
+                Pág. Facebook: 1111111 <br>
+                
+            </div>
+        </div>
+    </div>
+
+
+</body>
+<script src="/js/Buscador.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript">
+    $(window).load(function () {
+        $(".loader").fadeOut("slow");
+    });
+</script>
+
+</html>

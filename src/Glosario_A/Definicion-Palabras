@@ -1,0 +1,579 @@
+
+
+
+        <div class="Mostrar-Info">
+            <div class="Cuadro">
+                <div id="tituloAntiquimiotripsina" class="Informacion-Titulo"> Antiquimiotripsina </div>
+                <p id="parrafoAntiquimiotripsina" class="Informacion">
+                    Proteina que inhibe la acción de la enzima digestiva quimiotripsina.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Antiquimiotripsina.png" id="imagenAntiquimiotripsina">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAdrenérgicosbloqueantes" class="Informacion-Titulo"> Adrenérgicos-bloqueantes</div>
+                <p id="parrafoAdrenérgicosbloqueantes" class="Informacion">
+                    Agentes que bloquean receptores alfa en los órganos efectores.
+                    <i>(Ej. fentolamina, fenoxibenzamina, terazosina,doxazosina.)</i>.
+                    Denominados también ALFA-BLOQUEANTES.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Adrenérgicos-bloqueantes.jpg"
+                    id="imagenAdrenérgicosbloqueantes">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAglucano" class="Informacion-Titulo">Aglucano </div>
+                <p id="parrafoAglucano" class="Informacion">
+                    Enzima que, mediante una reacción con agua, degrada la amilosa
+                    <i>(una cadena recta polisacárida).</i> Para poder glucosa y maltosa.
+                    Está presente en plantas y se obtiene en forma cristalina
+                    de la secresión pancreática y de la saliva antiguamente denominada <i>a-AMILASA</i>
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/A-glucano.webp" id="imagenAglucano">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAglucanomaltohidrolasa" class="Informacion-Titulo">Aglucano-maltohidrolasa</div>
+                <p id="parrafoAglucanomaltohidrolasa" class="Informacion">
+                    Enzima que, mediante una reacción con agua, escinde la amilopectina (polisacárido ramificado)
+                    para producir maltosa. Está presente en semillas de soja, trigo, cebada y otras plantas
+                    similares.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Aglucano-Maltohidrosala.jpeg"
+                    id="imagenAglucanomaltohidrolasa">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAtalasemiaalfatalasemia" class="Informacion-Titulo">A-talasemia alfa talasemia</div>
+                <p id="parrafoAtalasemiaalfatalasemia" class="Informacion">
+                    Talasemia se caracteriza por reducción de la formación de cadenas alfaglobina, causadas por la
+                    supresión de uno o más de los cuatro genes alfaglobina que normalmente se encuentra presente
+                    en cada célula.<br>
+                    El número de de supresiones determinan la gravedad de la enfermedad.
+                    La falta de único gen provoca un estado de portador silente, que tiene poco o nulo efecto
+                    de sangre y es completamente asintomática.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Atalasemia.webp" id="imagenAtalasemiaalfatalasemia">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAtocoferol" class="Informacion-Titulo">A-tocoferol</div>
+                <p id="parrafoAtocoferol" class="Informacion">
+                    Derivado de la vitamina E.<br>
+                    Es una sustancia de color amarillo claro completamente liposoluble que está
+                    presente en las partes grasas de los alimentos. Se almacena en el tejido adiposo
+                    humano e interviene en todos los tejidos en la estabilización de los lípidos de la
+                    membrana celular. Se cree que desempeña un papel importante en el metabolismo celular.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/A-tocoferol.jpeg" id="imagenAtocoferol">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbarognacia" class="Informacion-Titulo">Abarognacia</div>
+                <p id="parrafoAbarognacia" class="Informacion">
+                    Pérdida del sentido de la persepción del peso.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abarognancia" id="imagenAbarognacia">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbarticulación" class="Informacion-Titulo">Abarticulación</div>
+                <p id="parrafoAbarticulación" class="Informacion">
+                    1.- Luxación <br>
+                    2.- Diartrosis.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abarticulación.jpg" id="imagenAbarticulación">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbarticular" class="Informacion-Titulo">Abarticular</div>
+                <p id="parrafoAbarticular" class="Informacion">
+                    Que no afecta o que se encuentra lejos de una articulación.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abarticular.png" id="imagenAbarticular">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbartrosis" class="Informacion-Titulo">Abartrosis</div>
+                <p id="parrafoAbartrosis" class="Informacion">
+                    DIATROSIS.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abartrosis.jpg" id="imagenAbartrosis">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbasia" class="Informacion-Titulo">Abasia</div>
+                <p id="parrafoAbasia" class="Informacion">
+                    Incapacidad para la marcha debida a un deterioro de la coordinación motora.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abasico.webp" id="imagenAbasia">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbasico" class="Informacion-Titulo">Abasico</div>
+                <p id="parrafoAbasico" class="Informacion">
+                    Relativo de la Abasia.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abasico.webp" id="imagenAbasico">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbaxial" class="Informacion-Titulo">Abaxial</div>
+                <p id="parrafoAbaxial" class="Informacion">
+                    Que no está situado en el eje del cuerpo ni de ninguna estructura.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abaxial.jpg" id="imagenAbaxial">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAgudo" class="Informacion-Titulo">Agudo</div>
+                <p id="parrafoAgudo" class="Informacion">
+                    Enfermedad incapacitante caracterizada por un dolor abdominal intenso, que puede
+                    o no estar asociado con la fiebre, vómito y shock.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Agudo.jpg" id="imagenAgudo">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbdominalgia" class="Informacion-Titulo">Abdominalgia</div>
+                <p id="parrafoAbdominalgia" class="Informacion">
+                    Dolor en el abdomen.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abdominalgia.jpg" id="imagenAbdominalgia">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAborto" class="Informacion-Titulo">Aborto</div>
+                <p id="parrafoAborto" class="Informacion">
+                    Expulsión o extracción de todos o partes de productos de la concepción (placent, membranas, y
+                    embrión o feto)
+                    antes de las 20 semanas completas de la gestación, calculadas a partir del primer día del último
+                    periodo menstrual
+                    normal o cuando el peso fetal es inferior de 500 gramos.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Aborto.jpeg" id="imagenAborto">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbiotrofia" class="Informacion-Titulo">Abiotrofia</div>
+                <p id="parrafoAbiotrofia" class="Informacion">
+                    Término general utilizando para designar cambios degenerativos de los tejidos cómo
+                    consecuencia de causas generativas.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abiotrofia.jpg" id="imagenAbiotrofia">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAblefaria" class="Informacion-Titulo">Ablefaria</div>
+                <p id="parrafoAblefaria" class="Informacion">
+                    Ausencia congénica, total o parcial, de los parpados.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Ablefaria.jpg" id="imagenAblefaria">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbrasión" class="Informacion-Titulo">Abrasión</div>
+                <p id="parrafoAbrasión" class="Informacion">
+                    1.- Herida superficial en la que la piel o la membrana mucosa se han retirado por raspado. <br>
+                    2.- Proceso de desgaste de un diente mediante fricción. Se aplica generalmente a un desgaste
+                    excesivo,
+                    como el causado por el uso de un dentrífico abrasivo.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abrasión.jpg" id="imagenAbrasión">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbreacción" class="Informacion-Titulo">Abreacción</div>
+                <p id="parrafoAbreacción" class="Informacion">
+                    Psicoterapia denominada "catarsis" por Freud, en la que se libera la descarga emocional al recordar
+                    una experiencia dolorosa olvidada.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abreacción.jpg" id="imagenAbreacción">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbruptioplacentae" class="Informacion-Titulo">Abruptio placentae</div>
+                <p id="parrafoAbruptioplacentae" class="Informacion">
+                    Desprendimienio prematuro de la placenta implantada de forma normal después de la
+                    semana 20 de gestación. Denominado también ABRUPCTÓN PLACENTARIA. ABIACtÓN
+                    PLACENTARIA.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Abruptioplacentae.webp" id="imagenAbruptioplacentae">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAbsceso" class="Informacion-Titulo">Absceso</div>
+                <p id="parrafoAbsceso" class="Informacion">
+                    Acumulación localizada de pus.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Absceso.jpg" id="imagenAbsceso">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAmebiano" class="Informacion-Titulo">Amebiano</div>
+                <p id="parrafoAmebiano" class="Informacion">
+                    Absceso que aparece como complicación de la disentería ameboide, generalemte en el higado
+                    y que contiene un fluido de color marrón viscoso.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Amebiano.webp" id="imagenAmebiano">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloApendicular" class="Informacion-Titulo">Apendicular</div>
+                <p id="parrafoApendicular" class="Informacion">
+                    Absceso localizado en la región del apéndice vermiforme.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Apendicular.jpg" id="imagenApendicular">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcasia" class="Informacion-Titulo">Acasia</div>
+                <p id="parrafoAcasia" class="Informacion">
+                    Exudado de consistencia viscosa obtenido de un arbol tropical del género acacia.
+                    Se utiliza para también GOMA ARABIGA.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acasia.webp" id="imagenAcasia">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcantamebiasis" class="Informacion-Titulo">Acantamebiasis</div>
+                <p id="parrafoAcantamebiasis" class="Informacion">
+                    Infección por <i>Acanthamoeba castellani</i> ameba de la vida libre que se encuentra en tierras
+                    húmedas y en el agua. Puede causar una inflación mortal del cerbro y de sus membranas.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acantamebiasis.jpg" id="imagenAcantamebiasis">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcantocephala" class="Informacion-Titulo">Acantocephala</div>
+                <p id="parrafoAcantocephala" class="Informacion">
+                    Filo de helmintos que po.seen una probóscide con espinas en forma de ganchos para adherirse
+                    al tubo digestivo del huésped.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acantocephala.png" id="imagenAcantocephala">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcantocitosis" class="Informacion-Titulo">Acantocitosis</div>
+                <p id="parrafoAcantocitosis" class="Informacion">
+                    Enfermedad familiar caracterizada por la presencia de gran niimcro de acantocitos en la sangre.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acantocitosis.jpg" id="imagenAcantocitosis">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcatalasia" class="Informacion-Titulo">Acatalasia</div>
+                <p id="parrafoAcatalasia" class="Informacion">
+                    Enfermedad genética caracterizada por una deficiencia de la enzima catalasa: <br>
+                    La manifestaciones pueden ser leves (úlceras en cavidades dentarias) o graves (recesión de las
+                    cavidades
+                    dentarias y gangrena de las encias). Se han identificado dos tipos de principales:<br>
+                    - El tipo de japones, en el que la cantidad de catalasa residual es normal desde un punto de vistas
+                    fisicoquímic,
+                    que inidca la mutuación de un gen regulador (controlador).<br>
+                    - Tipo suizo: En el que la cantidad de catalasa es anormal, lo que indica la mutación estructural
+                    del gen.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acatalasia.png" id="imagenAcatalasia">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcetabularía" class="Informacion-Titulo">Acetabularía</div>
+                <p id="parrafoAcetabularía" class="Informacion">
+                    Género <i>(filo Chlorophytia)</i> de algas unicelulares que puedes crecer hasta alcanzar una altura
+                    de 10 cm
+                    y que poseen una caperuza distintiva. Se utlizan en el estudio de la biología molecular.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acetabularía.jpg" id="imagenAcetabularía">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcetanilida" class="Informacion-Titulo">Acetanilida</div>
+                <p id="parrafoAcetanilida" class="Informacion">
+                    Sustancia blanca cristalina, obtenida por la acción del ácido acético sobre la anilina. Antiguamente
+                    se utiliza para aliviar
+                    el dolor y fiebre.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acetanilida.jpg" id="imagenAcetanilida">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcetificar" class="Informacion-Titulo">Acetificar</div>
+                <p id="parrafoAcetificar" class="Informacion">
+                    Convertir en vinagre o en ácido acético.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acetificar.jpg" id="imagenAcetificar">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcetazolamida" class="Informacion-Titulo">Acetazolamida</div>
+                <p id="parrafoAcetazolamida" class="Informacion">
+                    Diurético que inhite la acción de la anhidrasa carbónica en el riñón, lo cual favorece la pérdida
+                    de bicarbonato y de sodio. Produce una leve acidosis y alcaliniza la orina. Se utiliza en el
+                    tratamiento del glaucoma para reducir la presión intraocular; Diamox.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acetazolamida.jpg" id="imagenAcetazolamida">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcetílcistelna" class="Informacion-Titulo">Acetílcistelna</div>
+                <p id="parrafoAcetílcistelna" class="Informacion">
+                    Sustancia que se utiliza con el tratamiento de algunas enfermedades broncopulmonares para reducir la
+                    viscosidad del moco; Mucomyst.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acetílcistelna.webp" id="imagenAcetílcistelna">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcetilcolinesterasa" class="Informacion-Titulo">Acetilcolinesterasa</div>
+                <p id="parrafoAcetilcolinesterasa" class="Informacion">
+                    Enzima presente en todos los tejidos corporales que estimula la hidrólisis de acetilcolina.
+                    Actúa para eliminar la acetilcolina liberada en la sinapsis neuromuscular, lo que evita la
+                    reexcitación dcl músculo.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acetilcolinesterasa.jpg" id="imagenAcetilcolinesterasa">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAciclico" class="Informacion-Titulo">Aciclico</div>
+                <p id="parrafoAciclico" class="Informacion">
+                    1.- En química, dícese de un compuesto orgánico con una estructura de cadena abierta.<br>
+                    2.- Que no se produce durante la serie de acontecimientos que se repiten de forma regular.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Aciclico.png" id="imagenAciclico">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloÁcido" class="Informacion-Titulo">Ácido</div>
+                <p id="parrafoÁcido" class="Informacion">
+                    Compuesto capaz de donar un ión hidrógeno (protón) a una base y de combinar con un catión para
+                    formar una sal.
+                    Sustancia capaz de hacer que los indicadores de tornasol se vuelvan de color rojo.
+                    Para ácidos individuales, ver los nombres específicos.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Ácido.webp" id="imagenÁcido">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcetílsalícilico" class="Informacion-Titulo">Acetílsalícilico</div>
+                <p id="parrafoAcetílsalícilico" class="Informacion">
+                    Sustancia antipirética y analgésica importante cn el tratamiento de la artritis y de otras
+                    patologías innamalorias.
+                    Inhibe la síntesis de prostaglandinas.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acetílsalícilico.webp" id="imagenAcetílsalícilico">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcidofilico" class="Informacion-Titulo">Acidofilico</div>
+                <p id="parrafoAcidofilico" class="Informacion">
+                    1. Que tiende a teñirse fácilmente con colorantes ácidos. <br>
+                    2. Que tiende a crecer bien en un medio de elevada acidez.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acidofilico.jpg" id="imagenAcidofilico">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcidorresistente" class="Informacion-Titulo">Acidorresistente</div>
+                <p id="parrafoAcidorresistente" class="Informacion">
+                    Dícese de la bacterias que, una vez teñidas con ácidos como la fucsina básica, no se decoloran con
+                    alcohol ácido.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acidorresistente.jpg" id="imagenAcidorresistente">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcidosis" class="Informacion-Titulo">Acidosis</div>
+                <p id="parrafoAcidosis" class="Informacion">
+                    Proceso que tiende a producir un aumento de la concentración de iones de hidrógeno en los fluidos
+                    corporales.
+                    Si no se compensa, se produce una disminución del pH.
+                    A menudo se emplea como sinónimo de acidemia.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acidosis.jpg" id="imagenAcidosis">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcinestesia" class="Informacion-Titulo">Acinestesia</div>
+                <p id="parrafoAcinestesia" class="Informacion">
+                    Falta de persepción del movimiento.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acinestesia.webp" id="imagenAcinestesia">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcinitis" class="Informacion-Titulo">Acinitis</div>
+                <p id="parrafoAcinitis" class="Informacion">
+                    inflamaciónde un acino.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acinitis.jpg" id="imagenAcinitis">
+            </div>
+
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcinoso" class="Informacion-Titulo">Acinoso</div>
+                <p id="parrafoAcinoso" class="Informacion">
+                    Que se asemeja a un racimo de uvas o que se compone de sacos diminutos (acinos).
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acinoso.jpg" id="imagenAcinoso">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAclasia" class="Informacion-Titulo">Aclasia</div>
+                <p id="parrafoAclasia" class="Informacion">
+                    Continuidad de una estructura proporcionada por un tejido patológico ciue deriva del tejido normal y
+                    es continua con respecto a éste.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Aclasia.png" id="imagenAclasia">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAclorhidria" class="Informacion-Titulo">Aclorhidria</div>
+                <p id="parrafoAclorhidria" class="Informacion">
+                    Ausencia de ácido clorhídico en el estómago.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Aclorhidria.jpg" id="imagenAclorhidria">
+            </div>
+
+
+            <div class="Cuadro">
+                <div id="tituloAcluofobia" class="Informacion-Titulo">Acluofobia</div>
+                <p id="parrafoAcluofobia" class="Informacion">
+                    Miedo irracional a la oscuridad.
+                </p>
+                <img class="Imagenes-Palabras" src="" id="imagenAcluofobia">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcmé" class="Informacion-Titulo">Acmé</div>
+                <p id="parrafoAcmé" class="Informacion">
+                    Periodo de mayor intensidad en el transcurso de una enfermedad. Véase también Crisis.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acluofobia.jpg" id="imagenAcmé">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcmestesia" class="Informacion-Titulo">Acmestesia</div>
+                <p id="parrafoAcmestesia" class="Informacion">
+                    Sensación de pinchazo en la piel.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acmestesia.jpg" id="imagenAcmestesia">
+            </div>
+
+
+
+            <div class="Cuadro">
+                <div id="tituloAcné" class="Informacion-Titulo">Acné</div>
+                <p id="parrafoAcné" class="Informacion">
+                    Erupción causada por la inflamación de las glandulas sebáceas. Este termino suele hacer referencia
+                    al acné vulgar
+                    cuando se utiliza solo
+                </p>
+                <img class="Imagenes-Palabras" src="/img/imag/Acné.jpg" id="imagenAcné">
+            </div>
+

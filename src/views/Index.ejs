@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+</head>
+
+<body>
+    <%- include('partials/header') %>
+    <div class="imagen">
+        <h2>¡Bienvenidos!</h2>
+        <h2></h2>
+        <h2>¡Les deseamos un buen día!</h2>
+    </div>
+
+    <div class="Entrada sombra">
+        <section>
+            <p>Nosotros damos por dado en:</p>
+            <li>Ofrecer una gran variedad de contenido informativo.</li>
+            <li>Mostrar información veraz y precisa.</li>
+            <li>Ayudar a las personas a compartir sus conocimientos.</li>
+            <li>Ofrecer un sitio web amigable e intuitivo.</li>
+            <li>Ayudar a las personas con la resolución de sus dudas.</li>
+            <li>
+                Facilitar información con un lenguaje entendible para estudiantes o
+                personas interesadas en el tema.
+            </li>
+            <li>
+                Proporcionar conceptos clave para facilitar el entendimiento de un
+                tema.
+            </li>
+        </section>
+    </div>
+
+    <button id="carga_ajax">Carga contenido</button>
+    <div id="mensaje"></div>
+    <div id="loading">cargando...</div>
+    </div>
+
+
+
+    <div class="About-us">
+        <section class="About-us-Titulo">
+            Sección acerca de los desarrolladores
+        </section>
+
+        <div class="About-us-Iconos About-us-Contenido ">
+            <section class="Card Texto_Invisible">
+                <img src="\img\About-Us\Imagen5.jpg" />
+                <p>Jose Jair</p>
+            </section>
+
+            <section class="Card Texto_Invisible">
+                <img src="\img\About-Us\Imagen4.jpg" />
+                <p>Irving Rafael</p>
+            </section>
+
+            <section class="Card Texto_Invisible">
+                <img src="\img\About-Us\Imagen3.jpg" />
+                <p>Oziel</p>
+            </section>
+
+            <section class="Card Texto_Invisible">
+                <img src="\img\About-Us\Imagen2.jpg" />
+                <p>Rubén</p>
+            </section>
+
+            <section class="Card Texto_Invisible">
+                <img src="\img\About-Us\Imagen1.jpg" />
+                <p>Ricardo Daniel</p>
+            </section>
+        </div>
+    </div>
+
+    <footer>
+        <p>Derechos Reservados</p>
+    </footer>
+
+
+    <div class="loader"></div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript">
+    $(window).load(function () {
+        $(".loader").fadeOut("slow");
+    });
+</script>
+
+
+</html>

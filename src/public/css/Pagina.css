@@ -1,0 +1,43 @@
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-size: 16px; /*1 rem = 10px*/
+    background-image: linear-gradient(
+      to bottom,
+      var(--gris_claro) 0%,
+      var(--blanco) 100%
+    ); /*Degradados*/
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+.Informacion{
+    width: 100%;
+    height: 30rem;
+
+    border-style: groove;
+    border-radius: 1rem;
+    padding-top: 2rem;
+}
+
+.Mostrar{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr 4fr;
+    align-items: center;
+    justify-items: center;
+}
+
+.Letras{
+        background: linear-gradient(to top,
+        hsla(278, 100%, 36%, 1), hsla(263, 60%, 48%, 1),hsla(239, 53%, 59%, 1),hsla(213, 64%, 59%, 1),
+        hsla(203, 69%, 59%, 1),hsla(194, 73%, 59%, 1),hsla(188, 70%, 61%, 1),hsla(180, 66%, 63%, 1),
+        hsla(171, 80%, 69%, 1),hsla(163, 100%, 75%, 1));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        border: 0rem;
+        border-color: unset;
+
+}

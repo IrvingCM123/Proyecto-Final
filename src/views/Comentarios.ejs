@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Inicio</title>
+    <%- include("partials/header.ejs")%>
+    <%- include("partials/estilos.ejs")%>
+</head>
+
+<body>
+
+    <div class="imagen"> </div>
+
+    <div class="About-us sombra" id="Caja">
+
+        <section class="About-us-Titulo H1 Espacio" id="Titulo">
+            Déjanos tu experiencia aquí
+        </section>
+
+        <div id="Formulario-Info">
+            <label class="Espacio"  style="margin-top:7px;">Nombre</label>
+            <label class="Espacio" style="margin-top:7px;">Correo Electronico</label>
+            <label class="Espacio" style="margin-top:7px;">Telefono</label>
+            <label class="Espacio" style="margin-top:7px;">Comentario</label>
+        </div>
+
+        <div id="Formulario-Rellenar" >
+                    <form>
+                        <div class="Espacio">
+                            <input type="text" class="Respuesta" name="Nombre" placeholder="Nombre...">
+                        </div>
+
+                        <div class="Espacio">
+                            <input type="email" class="Respuesta" name="Email" placeholder="Email...">
+                        </div>
+
+                        <div class="Espacio">
+                            <input type="number" class="Respuesta" name="Telefono" placeholder="Telefono...">
+                        </div>
+
+                        <div class="Espacio">
+                            <textarea class="Respuesta Comentario" name="Mensaje" placeholder="Comentario..." ></textarea>
+                        </div>
+
+                        <div id="Formulario-Boton">
+                            <input type="submit" name="Mensaje" value="Enviar" class="Boton">
+                        </div>
+                        </form>
+        </div>
+
+        <div class="Informacion">
+            <h1 class="H1">Contactanos!</h1>
+            <ul>
+                <li>Número Telefonico: <br> <p>+52 ###-###-####</p></li>
+                <li>Correo Electronico: <br> <p> Ejemplo@Gmail.com</p></li>
+                <li>Facebook: <br> <p>Ejemplo.com</p> </li>
+            </ul>
+        </div>
+    </div>
+      
+    <div class="loader"></div>
+</body>
+<script src="/src/js/Buscador.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript">
+    $(window).load(function () {
+        $(".loader").fadeOut("slow");
+    });
+</script>
+
+</html>

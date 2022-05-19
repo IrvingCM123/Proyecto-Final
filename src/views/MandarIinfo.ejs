@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Inicio</title>
+    <%- include("partials/header.ejs")%>
+        <%- include("partials/estilos.ejs")%>
+</head>
+
+<body>
+
+
+    <div class="imagen"> </div>
+
+    <div id="Caja" class="About-us sombra Cuerpo">
+
+        <section class="About-us-Titulo H1 Espacio" id="Titulo">
+            Ingresa la Informacion aquí
+        </section>
+
+        <div class="container p-4" id="Formulario">
+            <form method="POST" action="/MandarInfo" class="card card-body">
+                <div class="form-group">
+                    <label for="letra"> Primera letra de la palabra</label>
+                    <input type="text" class="form-control" name="letra" id="letra" placeholder="letra" autofocus required>
+                </div>
+
+                <div class="form-group">
+                    <label for="palabra"> Palabra</label>
+                    <input type="text" class="form-control" name="palabra" id="palabra" placeholder="palabra" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="significado"> Significado</label>
+                    <textarea name="significado" id="significado" rows="2" class="form-control" required></textarea>
+                </div>
+
+                <div class="form-group">
+                    <label for="imagen"> imagen</label>
+                    <input class="form-control" type="file" name="imagen" id="seleccionArchivos" accept="image/*">
+                    <img id="imagenPrevisualizacion" class="Imagen-Mos">
+                    <script src="\js\Mostrar-Info.js"></script>
+                </div>
+
+                <input type="submit" value="Save Book" class="btn btn-primary">
+            </form>
+        </div>
+
+        <div class="Informacion">
+            <h1 class="H1">Contactanos!</h1>
+            <ul>
+                <li>Número Telefonico: <br>
+                    <p>+52 ###-###-####</p>
+                </li>
+                <li>Correo Electronico: <br>
+                    <p> Ejemplo@Gmail.com</p>
+                </li>
+                <li>Facebook: <br>
+                    <p>Ejemplo.com</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="loader"></div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript">
+    $(window).load(function () {
+        $(".loader").fadeOut("slow");
+    });
+</script>
+
+</html>

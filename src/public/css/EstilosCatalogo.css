@@ -1,0 +1,162 @@
+input[type="radio"]{
+    display: none;
+}
+
+.container-category{
+    width: 100%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.container-category label{
+    padding: 6px 40px;
+    margin: 10px;
+    font-size: 20px;
+    background: #e2e2e2;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.container-category label:hover{
+    opacity: 0.8;
+}
+
+.container-cursos{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.cursos{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.cursos .curso{
+    background: #fff;
+    box-shadow: 0 0 20px -20px black;
+    border-radius: 6px;
+    overflow: hidden;
+    padding-bottom: 20px;
+}
+
+.curso .curso-img{
+    width: 100%;
+}
+
+.curso .curso-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.curso h2{
+    font-size: 18px;
+    margin-top: 20px;
+    padding: 0px 20px;
+}
+
+.curso-inf{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+
+.curso-inf li{
+    list-style: none;
+    font-size: 14px;
+    margin: 4px;
+    padding: 6px;
+    background: #e8e8e8;
+    cursor: default;
+}
+
+.Boton-curso{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Boton-curso button{
+    margin-top: 10px;
+    padding: 10px 50px;
+    font-size: 16px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+    background: linear-gradient(150deg,
+    #80ffdb 0%, #72efdd 10%, #64dfdf 20%, #56cfe1 30%, #48bfe3 40%,#48bfe3 50%,
+    #4ea8de 60%, #5390d9 70%, #5e60ce 80%, #6930c3 90%);
+    animation: BgGradient 2s ease infinite;
+    background-size: 400% 300%;
+}
+
+.Boton-curso button:hover{
+    background: linear-gradient(150deg,
+    #ea698b 0%, #d55d92 10%, #c05299 20%, #ac46a1 30%, #973aa8 40%,#822faf 50%,
+    #6d23b6 60%, #6411ad 70%, #571089 80%, #47126b 90%);
+    animation: BgGradient 2s ease infinite;
+    background-size: 400% 300%;
+}
+
+@keyframes BgGradient {
+    0% {background-position: 0% 10%;}
+    10% {background-position: 10% 20%;}
+    20% {background-position: 20% 30%;}
+    30% {background-position: 30% 40%;}
+    40% {background-position: 40% 50%;}
+    50% {background-position: 50% 60%;}
+    60% {background-position: 60% 70%;}
+    70% {background-position: 70% 80%;}
+    80% {background-position: 80% 90%;}
+    90% {background-position: 90% 100%;}
+  }
+
+[value="TODOS"]:checked ~ .cursos .curso[data-category]{
+    display: block;
+}
+
+[value="WEB"]:checked ~ .cursos .curso:not([data-category~="WEB"]),
+[value="PROGRAMACION"]:checked ~ .cursos .curso:not([data-category~="PROGRAMACION"]),
+[value="MEDICINA"]:checked ~ .cursos .curso:not([data-category~="MEDICINA"]),
+[value="REDES"]:checked ~ .cursos .curso:not([data-category~="REDES"]),
+[value="MATEMATICAS"]:checked ~ .cursos .curso:not([data-category~="MATEMATICAS"]){
+    display: none;
+}
+
+[value="TODOS"]:checked ~ .container-category [for="TODOS"],
+[value="WEB"]:checked ~ .container-category [for="WEB"],
+[value="PROGRAMACION"]:checked ~ .container-category [for="PROGRAMACION"],
+[value="MEDICINA"]:checked ~ .container-category [for="MEDICINA"],
+[value="REDES"]:checked ~ .container-category [for="REDES"],
+[value="MATEMATICAS"]:checked ~ .container-category [for="MATEMATICAS"]{
+    background: #46a2fd;
+    color: #fff;
+}
+
+@media screen and (max-width: 1200px){
+    .cursos{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 900px){
+    .cursos{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width: 580px){
+    .cursos{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

@@ -1,0 +1,475 @@
+
+        <div class="Mostrar-Info">
+
+            <div class="Cuadro">
+                <div id="tituloMandibula" class="Informacion-Titulo">Mandibula</div>
+                <p id="parrafoMandibula" class="Informacion">
+                    (mandible) pieza osea que se articula con el craneo en la union temporomandibular <br>
+                    y alberga los dientes inferiores. <br> Denominada vulgarmente Quijada.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\es-es13305724.jpg"
+                    id="imagenMandibula">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMandibulectomia" class="Informacion-Titulo"> <i> Mandibulectomia</i> </div>
+                <p id="parrafoMandibulectomia" class="Informacion">
+                    Reseccion quirurgica de la mandibula
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\descargar.jpg"
+                    id="imagenMandibulectomia">
+            </div>
+
+            <div class="Cuadro">
+                <div id="titulomandibulofaríngeo" class="Informacion-Titulo"> <i> mandibulofaríngeo</i> </div>
+                <p id="parrafomandibulofaríngeo" class="Informacion">
+                    (mandibulopharyngeal) Relativo a la mandíliula y a la faringe
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\mandibulofaríngeo.jpg"
+                    id="imagenmandibulofaríngeo">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMandragora" class="Informacion-Titulo"> <i> Mandragora</i> </div>
+                <p id="parrafoMandragora" class="Informacion">
+                    Genero de plantas que incluye Mandragora, una planta herbácea venenosa europea
+                    que tiene propiedades sedantes, hipnótitacs y anestésicas.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\d171647fbec080729c445fdbaeacb06f.jpg"
+                    id="imagenMandragora">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloManifalange" class="Informacion-Titulo"> <i> Manifalange</i> </div>
+                <p id="parrafoManifalange" class="Informacion">
+                    Genero de plantas que incluye Mandragora, una planta herbácea venenosa europea
+                    que tiene propiedades sedantes, hipnóticas y anestésicas.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\126197.gif" id="imagenManifalange">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMarasmo" class="Informacion-Titulo"> <i> Marasmo</i> </div>
+                <p id="parrafoMarasmo" class="Informacion">
+                    (marasmas) emanciacion gradual y progresiva del cuerpo, que aparece principalmente en niños
+                    pequeños.
+                    Es producido por deplecion proteica y calorica. <br> Denominada tambien Atrepcia.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\desnutricion-7-320.jpg"
+                    id="imagenMarasmo">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMarcado" class="Informacion-Titulo"> <i> Marcado</i> </div>
+                <p id="parrafoMarcado" class="Informacion">
+                    Proceso en el cual se utilizan sustancias quimicas o radioactivas
+                    para marcar con fines diagnósticos o experimentales.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\istockphoto-858948940-1024x1024.jpg"
+                    id="imagenMarcado">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMarcapasos" class="Informacion-Titulo"> <i> Marcapasos</i> </div>
+                <p id="parrafoMarcapasos" class="Informacion">
+                    (pacemaker) Estructura corporal que sirve para establecer y mantener una actividad ritmica,
+                    como el nódulo sinocular del corazon que regula el latido cardiaco.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\shutterstock_1508899997-1024x909.jpg"
+                    id="imagenMarcapasos">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMarcar" class="Informacion-Titulo"> <i> Marcar</i> </div>
+                <p id="parrafoMarcar" class="Informacion">
+                    Añadir una sustancia fácilmente detectable, como un isótopo radioactivo.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\68105-10204440.jpg"
+                    id="imagenMarcar">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMalcalina" class="Informacion-Titulo"> <i> M. alcalina</i> </div>
+                <p id="parrafoMalcalina" class="Informacion">
+                    Alcalinidad de la orina que se produce como consecuencia de la ingesta de comida.
+                    Es una consecuencia de la secreción de jugo gástrico. <br> Denominada también onda alcalina.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\asset-get.product.image.jpg"
+                    id="imagenMalcalina">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMarsupialización" class="Informacion-Titulo"> <i> Marsupialización</i> </div>
+                <p id="parrafoMarsupialización" class="Informacion">
+                    Procedimiento quirúrgico para la obliteración de un quiste, como un quiste pilonidal.
+                    en el que se hace una incisión en el saco y se vacía. <br> Posteriormente se suturan sus bordes a
+                    los bordes de la incisión externa.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Marsupialización.jpg"
+                    id="imagenMarsupialización">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMarginación" class="Informacion-Titulo"> <i> Marginación</i> </div>
+                <p id="parrafoMarginación" class="Informacion">
+                    Adhesión de los leucocitos al inlerior de la pared de los capilares
+                    durante las primeras fases de la inflamación.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\leucocitos-bajos.jpg"
+                    id="imagenMarginación">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMarginoplastia" class="Informacion-Titulo"> <i> Marginoplastia</i> </div>
+                <p id="parrafoMarginoplastia" class="Informacion">
+                    (marginoplasty) Cirugía plástica del borde del párpado.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\descargar (1).jpg"
+                    id="imagenMarginoplastia">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMarihuana" class="Informacion-Titulo"> <i> Marihuana</i> </div>
+                <p id="parrafoMarihuana" class="Informacion">
+                    I. Planta de cánamo índico.
+                    2. Hojas, flores y raíces secas y troceadas de la planta de cáñamo amo índico común Caannabis sativa
+                    (familia Moraceae).
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\descargar (2).jpg"
+                    id="imagenMarihuana">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMariposa" class="Informacion-Titulo"> <i> Mariposa</i> </div>
+                <p id="parrafoMariposa" class="Informacion">
+                    (butterfly) Erupción en forma de mariposa en las mejillas y en la nariz.
+                    característica del upus eritematoso.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mariposa.jpg" id="imagenMariposa">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMartillo" class="Informacion-Titulo"> <i> Martillo</i> </div>
+                <p id="parrafoMartillo" class="Informacion">
+                    (malleus) Huesecillo del oído medio, con forma de mazo.
+                    que está unido firmemente a la membrana timpánica (tímpano) y se articula con el yunque.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Martillo.jpg" id="imagenMartillo">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMasa" class="Informacion-Titulo"> <i> Masa</i> </div>
+                <p id="parrafoMasa" class="Informacion">
+                    En farmacología, mezcla blanda y pastosa de fármacos adecuada para convertirla en pastillas.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Masa.jpg" id="imagenMasa">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMasaje" class="Informacion-Titulo"> <i> Masaje</i> </div>
+                <p id="parrafoMasaje" class="Informacion">
+                    (massage) Frotamiento, amasamienlo o golpeteo repetido terapéutico de areas del cuerpo.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Masaje.jpg" id="imagenMasaje">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMascara" class="Informacion-Titulo"> <i> Mascara</i> </div>
+                <p id="parrafoMascara" class="Informacion">
+                    (mask) 1. Disposilivo que se utiliza para cubrir total o parcialmente la cara
+                    para administrar anestésicos u oxígeno o como medida antiseptica.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mascara.jpg" id="imagenMascara">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMasculinización" class="Informacion-Titulo"> <i> Masculinización</i> </div>
+                <p id="parrafoMasculinización" class="Informacion">
+                    (masculinization) I. Desarrollo normal de los caracteres sexuales
+                    secundarios masculinos. <br> 2. Viralizazion.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Masculinización.jpg"
+                    id="imagenMasculinización">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMasculino" class="Informacion-Titulo"> <i> Masculino</i> </div>
+                <p id="parrafoMasculino" class="Informacion">
+                    (masculine) Relativo al sexo de los machos.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Masculino.jpg" id="imagenMasculino">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMáser" class="Informacion-Titulo"> <i> Máser</i> </div>
+                <p id="parrafoMáser" class="Informacion">
+                    (maser) Dispositivo que convierte la radiación electromagnética incidente de varias frecuencias
+                    en un rayo de radiación monocromática muy antpiificado en la región de las microondas.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Máser.jpg" id="imagenMáser">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMasoquismo" class="Informacion-Titulo"> <i> Masoquismo</i> </div>
+                <p id="parrafoMasoquismo" class="Informacion">
+                    (masochism) 1. Forma de perversión sexual en la que la satisfacción
+                    depende, en gran medida, de ser sometido a dolor físico o psicológico.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Masoquismo.jpg"
+                    id="imagenMasoquismo">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastadenovirus" class="Informacion-Titulo"> <i> Mastadenovirus</i> </div>
+                <p id="parrafoMastadenovirus" class="Informacion">
+                    (Masiadenovirus) Género de la familia Adenoviridae que contiene
+                    34 especies (tipos) que infectan al ser humano produciendo enfermedades respiratorias. <br>
+                    conjuntivitis y queratoconjuntivitis <br> epidemica, denominados también adenovirus de mamiferos
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastadenovirus.jpg"
+                    id="imagenMastadenovirus">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastectomia" class="Informacion-Titulo"> <i> Mastectomia</i> </div>
+                <p id="parrafoMastectomia" class="Informacion">
+                    (Mastectomy) Resección quirúrgica de una mama. Denominada tambien MAMECTOMIA.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastectomia.jpg"
+                    id="imagenMastectomia">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastigophora" class="Informacion-Titulo"> <i> Mastigophora</i> </div>
+                <p id="parrafoMastigophora" class="Informacion">
+                    (Mastigophora) Subfilo de Prolozoa compuesto por organismos que tienen uno o más flagelos y un solo
+                    núcleo.
+                    Algunas especies son parásitos del ser humano <br> Tiypanosoma y leislumania se incluyen en este
+                    subfilo.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastigophora.jpg"
+                    id="imagenMastigophora">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastitis" class="Informacion-Titulo"> <i> Mastitis</i> </div>
+                <p id="parrafoMastitis" class="Informacion">
+                    (maslilis) Inflamación de la mama.
+                    Denominada también MAMITIS, MASTADENITIS.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastitis.jpg" id="imagenMastitis">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastocitoma" class="Informacion-Titulo"> <i> Mastocitoma</i> </div>
+                <p id="parrafoMastocitoma" class="Informacion">
+                    (mastocytoma) Nódulo similar a un lumor, formado principalmenle por mastocitos.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastocitoma.jpg"
+                    id="imagenMastocitoma">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastocitos" class="Informacion-Titulo"> <i> Mastocitos</i> </div>
+                <p id="parrafoMastocitos" class="Informacion">
+                    (mast cells) Células grandes con gránulos citoplasmáticos gruesos que contienen heparina
+                    (anticoagulante) e histamina (vasodilatador) y que se encuentran en la mayoría de los lejidos
+                    conjuntivos <br> laxos, especialmente en el recorrido de los vasos sanguineos <br> Estas celulas
+                    actúan como mediadores de la inflamación cuando entran en contacto con un antígeno.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastocitos.jpg"
+                    id="imagenMastocitos">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastocitosis" class="Informacion-Titulo"> <i> Mastocitosis</i> </div>
+                <p id="parrafoMastocitosis" class="Informacion">
+                    (masiocytosis) Proliferación anormal de mastocitos en diferentes tejidos.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastocitosis.jpg"
+                    id="imagenMastocitosis">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastoidectomia" class="Informacion-Titulo"> <i> Mastoidectomia</i> </div>
+                <p id="parrafoMastoidectomia" class="Informacion">
+                    (mastoidectomy) Resección de las celdas de la mastoides.
+                    Antiguamente se indicaba cuando había mastoiditis y otitis persistentes o recurrentes. <br> Se
+                    indica rara vez desde la llegada de los antibióticos.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastoidectomia.jpg"
+                    id="imagenMastoidectomia">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastoides" class="Informacion-Titulo"> <i> Mastoides</i> </div>
+                <p id="parrafoMastoides" class="Informacion">
+                    (mastoid) Proyección inferior dei hueso temporal localizada detrás de la oreja.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastoides.jpg" id="imagenMastoides">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastoiditis" class="Informacion-Titulo"> <i> Mastoiditis</i> </div>
+                <p id="parrafoMastoiditis" class="Informacion">
+                    (mastoiditis) Inflamación de la apófisis mastoides.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastoiditis.jpg"
+                    id="imagenMastoiditis">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastoidotomia" class="Informacion-Titulo"> <i> Mastoidotomia</i> </div>
+                <p id="parrafoMastoidotomia" class="Informacion">
+                    (mastoidotomy, maxtoideocentesis) Creación quirúrgica de una abertura
+                    hacia las celdas de la mastoides.
+                </p>
+                <img class="Imagenes-Palabras" src="/img//img/Proyecto Construccion imagenes\Mastoidotomia.jpg"
+                    id="imagenMastoidotomia">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastopatia" class="Informacion-Titulo"> <i> Mastopatia</i> </div>
+                <p id="parrafoMastopatia" class="Informacion">
+                    (mastopathy) Enfermedad de la mama.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastopatia.jpg"
+                    id="imagenMastopatia">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastopexia" class="Informacion-Titulo"> <i> Mastopexia</i> </div>
+                <p id="parrafoMastopexia" class="Informacion">
+                    (mastopexy) Procedimiento quirúrgico para corregir las mamas colgantes.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastopexia.jpg"
+                    id="imagenMastopexia">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastoptosis" class="Informacion-Titulo"> <i> Mastoptosis</i> </div>
+                <p id="parrafoMastoptosis" class="Informacion">
+                    (mastoptosis) Mamas colgantes.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Mastoptosis.jpg"
+                    id="imagenMastoptosis">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMastotomia" class="Informacion-Titulo"> <i> Mastotomia</i> </div>
+                <p id="parrafoMastotomia" class="Informacion">
+                    (mastotomy) Incisión quirúrgica en una mama.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\mastotomia.jpg"
+                    id="imagenMastotomia">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMasturbación" class="Informacion-Titulo"> <i> Masturbación</i> </div>
+                <p id="parrafoMasturbación" class="Informacion">
+                    (masturbation) Aulonianipulación de los genitales para producir excitación sexual.
+                    Denominada también onanismo.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\masturbación.jpg"
+                    id="imagenMasturbación">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMateria" class="Informacion-Titulo"> <i> Materia</i> </div>
+                <p id="parrafoMateria" class="Informacion">
+                    Desechos de un organismo vivo.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\materia.jpg" id="imagenMateria">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMaternidad" class="Informacion-Titulo"> <i> Maternidad</i> </div>
+                <p id="parrafoMaternidad" class="Informacion">
+                    (Maternity) 1. Estado de estar gestante o de ser madre.
+                    2. Relativo al parto.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Maternidad.jpg"
+                    id="imagenMaternidad">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMatidez" class="Informacion-Titulo"> <i> Matidez</i> </div>
+                <p id="parrafoMatidez" class="Informacion">
+                    (dullnes, dulness) Cualidad del sonido obtenido medíante percusión
+                    sobre una parte o sobre un órgano sólido incapaz de vibrar caracterizado <br> por tener muy poca
+                    resonancia.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Matidez.jpg" id="imagenMatidez">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMatraz" class="Informacion-Titulo"> <i> Matraz</i> </div>
+                <p id="parrafoMatraz" class="Informacion">
+                    (flask) I. Botella de cuello estrecho utilizada en el laboratorio.
+                    2. Molde o tubo metálico empleado en procedimientos de inversión.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Matraz.jpg" id="imagenMatraz">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMatrilineal" class="Informacion-Titulo"> <i> Matrilineal</i> </div>
+                <p id="parrafoMatrilineal" class="Informacion">
+                    (matrilineal) Relativo a la herencia de rasgos a través de la línea materna y no paterna.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Matrilineal.jpg"
+                    id="imagenMatrilineal">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMatriz" class="Informacion-Titulo"> <i> Matriz</i> </div>
+                <p id="parrafoMatriz" class="Informacion">
+                    (matrix. pl. matrices) 1. Material básico a partir dcl cual se desarrolla cualquier estructura.
+                    2. Sustancia intercelular homogénea de cualquier lejido.<br> 3. Molde en el que se hace un vaciado.
+                </p>
+                <img class="Imagenes-Palabras" src="/img//img/Proyecto Construccion imagenes/Matriz.jpg" id="imagenMatriz">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMatrona" class="Informacion-Titulo"> <i> Matrona</i> </div>
+                <p id="parrafoMatrona" class="Informacion">
+                    (nurse-midwife) Enfermera titulada que ha recibido formación reglada para prestar
+                    asistencia a mujeres embarazadas, incluyendo el parto y servicios sanitarios relacionados.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Matrona.jpg" id="imagenMatrona">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMaxilar" class="Informacion-Titulo"> <i> Maxilar</i> </div>
+                <p id="parrafoMaxilar" class="Informacion">
+                    (maxilla) Cada uno de los dos huesos de forma irregular que forma la mandíbula superior.
+                    Alberga los dientes superiores.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Maxilar.jpg" id="imagenMaxilar">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMaxilofacial" class="Informacion-Titulo"> <i> Maxilofacial</i> </div>
+                <p id="parrafoMaxilofacial" class="Informacion">
+                    (maxillofacial) Relativo al maxilar y a la cara.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Maxilofacial.jpg"
+                    id="imagenMaxilofacial">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMayeusiofobia" class="Informacion-Titulo"> <i> Mayeusiofobia</i> </div>
+                <p id="parrafoMayeusiofobia" class="Informacion">
+                    (maieusiophobia) Miedo anormal al parto.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\mayeusiofobia.jpg"
+                    id="imagenMayeusiofobia">
+            </div>
+
+            <div class="Cuadro">
+                <div id="tituloMeato" class="Informacion-Titulo"> <i> Meato</i> </div>
+                <p id="parrafoMeato" class="Informacion">
+                    (meatus: pl. meatas, meatuses) Canal corporal o su abertura.
+                </p>
+                <img class="Imagenes-Palabras" src="/img/Proyecto Construccion imagenes\Meato.jpg" id="imagenMeato">
+            </div>
+        </div>

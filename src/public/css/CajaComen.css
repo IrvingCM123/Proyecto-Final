@@ -1,0 +1,138 @@
+#Caja{
+  height: 40rem;
+  margin: 2rem;
+  width: 100% - 2rem;
+
+  display: grid;
+  grid-template-columns: 1fr 5fr 1fr;
+  grid-template-rows: 1fr 5fr 1fr;
+}
+
+#Titulo{
+  grid-area: 1/1/1/4;
+}
+
+.Espacio{
+  margin-bottom: 2rem;
+}
+
+.H1{
+  padding-top: 0;
+  margin-top: 0;
+  font-size: 2rem;
+  font-style: italic;
+  background-image: linear-gradient(100deg,
+  #4ea8de 0%, #5390d9 30%, #5e60ce 60%, #6930c3 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: BgGradient 2s alternate-reverse infinite;
+  background-size: 400% 300%;
+}
+
+#Formulario{
+  grid-area: 2/2/4/3;
+}
+
+.Respuesta{
+  margin-left: 2rem;
+  margin-right: 2rem;
+  width: 25rem;
+  height: fit-content;
+  min-height: 3rem;
+  border-style: groove;
+  border-radius: 1rem;
+  border-color: var(--oscuro);
+}
+
+.Comentario{
+  height: 12rem;
+}
+
+#Formulario-Boton{
+  grid-area: 2/2/2/3;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+
+.Boton{
+  margin-top: 10px;
+  padding: 10px 50px;
+  font-size: 16px;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  background: linear-gradient(150deg,
+  #80ffdb 0%, #72efdd 10%, #64dfdf 20%, #56cfe1 30%, #48bfe3 40%,#48bfe3 50%,
+  #4ea8de 60%, #5390d9 70%, #5e60ce 80%, #6930c3 90%);
+  animation: BgGradient 2s ease infinite;
+  background-size: 400% 300%;
+}
+
+.Boton:hover{
+  background: linear-gradient(150deg,
+  #ea698b 0%, #d55d92 10%, #c05299 20%, #ac46a1 30%, #973aa8 40%,#822faf 50%,
+  #6d23b6 60%, #6411ad 70%, #571089 80%, #47126b 90%);
+  animation: BgGradient 2s ease infinite;
+  background-size: 400% 300%;
+}
+
+@keyframes BgGradient {
+  0% {background-position: 0% 10%;}
+  10% {background-position: 10% 20%;}
+  20% {background-position: 20% 30%;}
+  30% {background-position: 30% 40%;}
+  40% {background-position: 40% 50%;}
+  50% {background-position: 50% 60%;}
+  60% {background-position: 60% 70%;}
+  70% {background-position: 70% 80%;}
+  80% {background-position: 80% 90%;}
+  90% {background-position: 90% 100%;}
+}
+
+.Informacion{
+  grid-area: 2/3/3/3;
+  margin-top: 0;
+  padding-top: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  font-size: 1.5rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  text-align: justify;
+}
+
+.Informacion p{
+  font-weight: 400;
+}
+
+@media (min-width : 700px) {
+  .Respuesta{
+    width: 50rem;
+  }
+
+  .Informacion{
+    font-size: 2rem;
+    font-weight: 800;
+  }
+
+  .H1{
+    font-size: 3rem;
+  }
+
+  #Caja{
+    height: 45rem;
+  }
+
+  #Formulario-Info{
+    align-items: flex-end;
+    text-align: end;
+    font-size: 2rem;
+    font-style: italic;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+}
